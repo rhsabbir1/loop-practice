@@ -7,7 +7,6 @@
 // structure 
 
 // loop variable 
-
 // while(condition){
 //     loop body
 //     value +;
@@ -17,8 +16,8 @@
 var studentCount = 0;
 
 while(studentCount <= 10){
-    // console.log('Present')
-    // console.log(studentCount)
+    console.log('Present')
+    console.log(studentCount)
     studentCount++;
 }
 
@@ -26,16 +25,16 @@ while(studentCount <= 10){
 var number = 1;
 
 while(number <= 20){
-    // console.log(number)
+    console.log(number)
     number++;
 }
 
 // Even number 
 
-var number = 2;
+var number = 0;
 
 while(number <= 20){
-    // console.log(number)
+    console.log(number)
     number+= 2;
 }
 
