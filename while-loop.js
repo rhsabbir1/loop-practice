@@ -29,14 +29,6 @@ while(number <= 20){
     number++;
 }
 
-// Even number 
-
-var number = 0;
-
-while(number <= 20){
-    console.log(number)
-    number+= 2;
-}
 
 // Odd number
 
@@ -46,3 +38,14 @@ while(number <= 20){
     console.log(number)
     number+= 2;
 }
+
+// Even number 
+
+var number = 0;
+
+while(number <= 20){
+    console.log(number)
+    number+= 2;
+}
+
+
