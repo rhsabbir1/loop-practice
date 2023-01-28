@@ -6,23 +6,23 @@ while(rostgiven <= 10){
 }
 
 // for loop 
-for(rostgiven =0; rostgiven <= 10; rostgiven++){
+for( var rostgiven =0; rostgiven <= 10; rostgiven++){
     console.log('something')
 }
 
 //Usual system
 
-for(i = 0; i <= 10; i++){
+for(var i = 0; i <= 10; i++){
     console.log(i)
 }
 
 // Even number usuing for loop 
-for(i = 2;  i <= 10; i+=2){
+for(var i = 2;  i <= 10; i+=2){
     console.log(i)
 }
 
 
 // Odd number 
-for(i = 1 ; i <= 10; i+=2){
+for(var i = 1 ; i <= 10; i+=2){
     console.log(i)
 }
